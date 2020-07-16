@@ -1,4 +1,4 @@
-# Cardiovascular_disease_prediction
+# Cardiovascular_Disease_Prediction
 FE, tuning and comparison of the 15 popular models for Cardiovascular Disease prediction
 
 Comparison of the optimal for each type models.
