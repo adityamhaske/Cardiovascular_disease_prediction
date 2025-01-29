@@ -15,7 +15,8 @@ Dataset : https://www.kaggle.com/benanakca/comparison-of-classification-disease-
    
 5. Preparing to modeling
    
-7. Tuning models and test for all features                  
+7. Tuning models and test for all features
+                 
        1. Logistic Regression           
        2. Support Vector Machines       
        3. Linear SVC          
@@ -32,5 +33,5 @@ Dataset : https://www.kaggle.com/benanakca/comparison-of-classification-disease-
       14. BaggingClassifier   
       15. ExtraTreesClassifier with HyperOpt
               
-8. Models evaluation
+9. Models evaluation
  
